@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingCenter", "MessagingCenter\MessagingCenter.csproj", "{43505B3F-AAA8-4FC3-8AA8-75231A272FCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Message Library", "Message Library\Message Library.csproj", "{DDFD9884-5202-4AAA-9835-6F88200E9AE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageService", "MessageService\MessageService.csproj", "{37D2CF2D-A2E0-4F06-B0D3-62D7EA0033F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43505B3F-AAA8-4FC3-8AA8-75231A272FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43505B3F-AAA8-4FC3-8AA8-75231A272FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43505B3F-AAA8-4FC3-8AA8-75231A272FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43505B3F-AAA8-4FC3-8AA8-75231A272FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDFD9884-5202-4AAA-9835-6F88200E9AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDFD9884-5202-4AAA-9835-6F88200E9AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDFD9884-5202-4AAA-9835-6F88200E9AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDFD9884-5202-4AAA-9835-6F88200E9AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37D2CF2D-A2E0-4F06-B0D3-62D7EA0033F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37D2CF2D-A2E0-4F06-B0D3-62D7EA0033F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37D2CF2D-A2E0-4F06-B0D3-62D7EA0033F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37D2CF2D-A2E0-4F06-B0D3-62D7EA0033F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
